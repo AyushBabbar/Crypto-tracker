@@ -1,3 +1,5 @@
-Hello,I am Ayush Babbar and this is my Crypto Tracker Project which I have made with the help of ReactJS, ChartJS, Material UI
+Developed a real time tracker app that displays data of top cryptocurrencies like Bitcoin and Ethereum over varying time frames.
+It also has a keyword search feature for searching the desired crypto currency.
+
 
 Hosting Link - https://cryptotracker-babbar.netlify.app/
